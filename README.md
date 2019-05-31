@@ -6,4 +6,7 @@ Two Sum, 3 Sum
 Contain With Most Water, Search Insert Position, Reverse Integer
 
 ## 5/29
-Remove Element, Remove Duplicates from sorted array
+Remove Element, Remove Duplicates from sorted array, Implement strStr()
+
+## 5/30
+Symmetric Tree

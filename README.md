@@ -13,3 +13,6 @@ Symmetric Tree
 
 ## 5/31
 Valid Parentheses, Roman to Integer, Maximum Subarray
+
+## 6/1
+Merge Sorted Array, Climbing Stairs, Sqrt(x), Max Depth of Binary Tree, Min Depth of Binary Tree

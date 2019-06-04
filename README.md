@@ -19,3 +19,6 @@ Merge Sorted Array, Climbing Stairs, Sqrt(x), Max Depth of Binary Tree, Min Dept
 
 ## 6/2
 Path Sum, Balanced Binary Tree, Convert Sorted Array to Binary Tree, Invert Binary Tree, Binary Tree Paths
+
+## 6/3
+Valid Palindrome, Best Time to Sell and Buy Stock, Best Time to Sell and Buy Stock II, Min Stack, Contain Duplicates

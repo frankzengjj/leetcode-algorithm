@@ -24,4 +24,4 @@ Path Sum, Balanced Binary Tree, Convert Sorted Array to Binary Tree, Invert Bina
 Valid Palindrome, Best Time to Sell and Buy Stock, Best Time to Sell and Buy Stock II, Min Stack, Contain Duplicates
 
 ## 6/4
-Contain Duplicates II, Implement Stack Using Queue
+Contain Duplicates II, Implement Stack Using Queue, Excel Sheet Column Title, Excel Sheet Column Number, Rotate Array, House Robber, Number of 1 Bits

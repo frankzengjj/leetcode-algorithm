@@ -25,3 +25,6 @@ Valid Palindrome, Best Time to Sell and Buy Stock, Best Time to Sell and Buy Sto
 
 ## 6/4
 Contain Duplicates II, Implement Stack Using Queue, Excel Sheet Column Title, Excel Sheet Column Number, Rotate Array, House Robber, Number of 1 Bits
+
+## 6/5 
+Happy Number, Count Prime, Isomorphic Strings

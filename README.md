@@ -27,4 +27,7 @@ Valid Palindrome, Best Time to Sell and Buy Stock, Best Time to Sell and Buy Sto
 Contain Duplicates II, Implement Stack Using Queue, Excel Sheet Column Title, Excel Sheet Column Number, Rotate Array, House Robber, Number of 1 Bits
 
 ## 6/5 
-Happy Number, Count Prime, Isomorphic Strings, Valid Anagram, Power of Two, Implement Stack Using Queue.
+Happy Number, Count Prime, Isomorphic Strings, Valid Anagram, Power of Two, Implement Stack Using Queue
+
+## 6/6 
+Lowest Common Ancestor of a Binary Search Tree, Word Pattern, Ugly Number, Missing Number, First Bad Version

@@ -34,3 +34,6 @@ Lowest Common Ancestor of a Binary Search Tree, Word Pattern, Ugly Number, Missi
 
 ## 6/7
 Intersection of Two Arrays II, Find the Difference 
+
+## 6/8 
+Valid Perfect Sqaure, Plus One

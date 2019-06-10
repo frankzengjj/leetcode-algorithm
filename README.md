@@ -37,3 +37,6 @@ Intersection of Two Arrays II, Find the Difference
 
 ## 6/8 
 Valid Perfect Sqaure, Plus One
+
+## 6/9 
+Add binary, Longest Substring Without Repeating Characters, Guess Number Higher or Lower

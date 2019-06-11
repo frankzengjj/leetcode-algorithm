@@ -40,3 +40,6 @@ Valid Perfect Sqaure, Plus One
 
 ## 6/9 
 Add binary, Longest Substring Without Repeating Characters, Guess Number Higher or Lower
+
+## 6/10
+4Sum, Search in Rotated Sorted Array, Sort Color, Minimum Size Subarray Sum

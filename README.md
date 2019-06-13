@@ -46,3 +46,6 @@ Add binary, Longest Substring Without Repeating Characters, Guess Number Higher 
 
 ## 6/11
 Validate Binary Search Tree, Path Sum II, Lowest Common Ancestor of a Binary Tree, Binary Tree Maximum Path Sum
+
+## 6/12
+Letter Combinations of a Phone Number, String to Integer(atoi), Permuation, Permutaion II, Longest Palindromic Substring, Integer to Roman

@@ -49,3 +49,6 @@ Validate Binary Search Tree, Path Sum II, Lowest Common Ancestor of a Binary Tre
 
 ## 6/12
 Letter Combinations of a Phone Number, String to Integer(atoi), Permuation, Permutaion II, Longest Palindromic Substring, Integer to Roman
+
+## 6/13
+Move Zeroes, Remove Duplicates from Sorted Array II, Find the Duplicate Number, Merge Interval

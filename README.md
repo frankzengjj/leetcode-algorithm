@@ -52,3 +52,6 @@ Letter Combinations of a Phone Number, String to Integer(atoi), Permuation, Perm
 
 ## 6/13
 Move Zeroes, Remove Duplicates from Sorted Array II, Find the Duplicate Number, Merge Interval
+
+## 6/14 
+Insert Delete GetRandom O(1)

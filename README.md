@@ -55,3 +55,6 @@ Move Zeroes, Remove Duplicates from Sorted Array II, Find the Duplicate Number, 
 
 ## 6/14 
 Insert Delete GetRandom O(1)
+
+## 6/15 
+Find Minimum in Rotated Sorted Array, Jump Game

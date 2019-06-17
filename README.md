@@ -57,4 +57,7 @@ Move Zeroes, Remove Duplicates from Sorted Array II, Find the Duplicate Number, 
 Insert Delete GetRandom O(1)
 
 ## 6/15 
-Find Minimum in Rotated Sorted Array, Jump Game
+Find Minimum in Rotated Sorted Array, Jump Game, Find First and Last Position of Elementin Sorted Array
+
+## 6/16
+ Search a 2D matrix, Search in Rotated Sorted Array II, Find Peak Element

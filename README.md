@@ -72,11 +72,11 @@ Letter Combinations of a Phone Number, String to Integer(atoi), Permuation, Perm
 
 Move Zeroes, Remove Duplicates from Sorted Array II, Find the Duplicate Number, Merge Interval
 
-## 6/14 
+## 6/14
 
 Insert Delete GetRandom O(1)
 
-## 6/15 
+## 6/15
 
 Find Minimum in Rotated Sorted Array, Jump Game, Find First and Last Position of Elementin Sorted Array
 
@@ -87,3 +87,7 @@ Search a 2D matrix, Search in Rotated Sorted Array II, Find Peak Element
 ## 6/17
 
 Product of Array Except Self, Populating Next Right Pointers In Each Node, Populating Next Right Pointers In Each Node II
+
+## 6/18
+
+Decode String, Range Sum Query-Mutable, Simplify Path

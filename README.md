@@ -91,3 +91,7 @@ Product of Array Except Self, Populating Next Right Pointers In Each Node, Popul
 ## 6/18
 
 Decode String, Range Sum Query-Mutable, Simplify Path
+
+## 6/19
+
+Decode Ways, Group Anagram, Top K Frequent Element

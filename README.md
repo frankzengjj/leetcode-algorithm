@@ -95,3 +95,7 @@ Decode String, Range Sum Query-Mutable, Simplify Path
 ## 6/19
 
 Decode Ways, Group Anagram, Top K Frequent Element
+
+## 6/20
+
+Kth Largest Element in an Array, Bulls and Cows, Valid Sudoku

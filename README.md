@@ -105,3 +105,5 @@ Kth Largest Element in an Array, Bulls and Cows, Valid Sudoku
 Kth Smallest Element in a BST, Kth Smallest Element in a Sorted Matrix, Evaluate Reverse Polish Notation
 
 ## 6/22
+
+H-index

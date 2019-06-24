@@ -107,3 +107,7 @@ Kth Smallest Element in a BST, Kth Smallest Element in a Sorted Matrix, Evaluate
 ## 6/22
 
 H-index
+
+## 6/23 
+
+Contain Duplicates III

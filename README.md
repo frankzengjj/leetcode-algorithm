@@ -111,3 +111,7 @@ H-index
 ## 6/23 
 
 Contain Duplicates III
+
+## 6/24
+
+House Robber III, Multiply Strings

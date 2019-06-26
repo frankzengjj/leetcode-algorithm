@@ -115,3 +115,7 @@ Contain Duplicates III
 ## 6/24
 
 House Robber III, Multiply Strings
+
+## 6/25
+
+Increasing Triplet Subsequence, Pow(x, n)

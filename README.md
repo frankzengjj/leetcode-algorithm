@@ -108,7 +108,7 @@ Kth Smallest Element in a BST, Kth Smallest Element in a Sorted Matrix, Evaluate
 
 H-index
 
-## 6/23 
+## 6/23
 
 Contain Duplicates III
 
@@ -119,3 +119,7 @@ House Robber III, Multiply Strings
 ## 6/25
 
 Increasing Triplet Subsequence, Pow(x, n)
+
+## 6/26
+
+Perfect Squares, Spiral Matrix, Wiggle Sort II

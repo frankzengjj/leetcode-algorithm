@@ -123,3 +123,7 @@ Increasing Triplet Subsequence, Pow(x, n)
 ## 6/26
 
 Perfect Squares, Spiral Matrix, Wiggle Sort II
+
+## 6/27
+
+Unique Paths, Minimum Path Sum, Maximum Product Subarray

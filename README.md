@@ -139,3 +139,7 @@ House Robber II, Subsets, Subsets II, Rotate Image, Summary Range
 ## 6/30
 
 Word Ladder
+
+## 7/1
+
+Add and Search Word, Implement Trie

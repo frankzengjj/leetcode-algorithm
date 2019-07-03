@@ -143,3 +143,7 @@ Word Ladder
 ## 7/1
 
 Add and Search Word, Implement Trie
+
+## 7/2 
+
+Coin Change

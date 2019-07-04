@@ -147,3 +147,7 @@ Add and Search Word, Implement Trie
 ## 7/2 
 
 Coin Change
+
+## 7/3
+
+Counting Bits

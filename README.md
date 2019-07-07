@@ -144,7 +144,7 @@ Word Ladder
 
 Add and Search Word, Implement Trie
 
-## 7/2 
+## 7/2
 
 Coin Change
 
@@ -158,4 +158,8 @@ Course Schedule, Course Schedule II
 
 ## 7/5
 
-Longest Increasing Subsequence, Search A 2D Matrix II.
+Longest Increasing Subsequence, Search A 2D Matrix II
+
+## 7/6
+
+Combinations, Combination Sum, Combination Sum II, Combination Sum III, Combination Sum IV

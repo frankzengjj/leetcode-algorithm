@@ -171,3 +171,7 @@ Surrounded Regions
 ## 7/8
 
 Clone Graph, Number of Islands
+
+## 7/9
+
+Best Time to Buy and Sell Stock with Cooldown, Maximal Square

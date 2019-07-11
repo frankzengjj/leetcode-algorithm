@@ -175,3 +175,7 @@ Clone Graph, Number of Islands
 ## 7/9
 
 Best Time to Buy and Sell Stock with Cooldown, Maximal Square
+
+## 7/10
+
+Ugly Number II, Copy List With Random Pointer, Linked List Cycle II, Remove Duplicates from Sorted List II, Different Way to Add Parentheses

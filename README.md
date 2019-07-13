@@ -183,3 +183,7 @@ Ugly Number II, Copy List With Random Pointer, Linked List Cycle II, Remove Dupl
 ## 7/11
 
 Shuffle An Array
+
+## 7/12
+
+Unique Binary Search Tree, Generate Parentheses, Random Pick Index

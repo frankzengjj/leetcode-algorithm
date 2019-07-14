@@ -187,3 +187,7 @@ Shuffle An Array
 ## 7/12
 
 Unique Binary Search Tree, Generate Parentheses, Random Pick Index
+
+## 7/13
+
+Bitwise AND of Numbers Range

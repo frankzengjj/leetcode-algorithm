@@ -203,3 +203,7 @@ Wiggle Subsequence
 ## 7/16
 
 Guess Number Higher or Lower II
+
+## 7/17
+
+Flatten Nested List Iterator

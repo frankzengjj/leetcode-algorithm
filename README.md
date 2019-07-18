@@ -207,3 +207,7 @@ Guess Number Higher or Lower II
 ## 7/17
 
 Flatten Nested List Iterator
+
+## 7/18
+
+Binary Search Tree Iterator

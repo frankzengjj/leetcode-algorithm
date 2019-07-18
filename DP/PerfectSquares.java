@@ -14,4 +14,8 @@ class Solution {
         }		
 	    return dp[n];
     }
+
+    public static void main(String[] args) {
+        System.out.println(new Solution().numSquares(7));
+    }
 }

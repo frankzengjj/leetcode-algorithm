@@ -9,4 +9,8 @@ class Solution {
         }
         return f[n];
     }
+
+    public static void main(String[] args) {
+        System.out.println(new Solution().climbStairs(5));
+    }
 }

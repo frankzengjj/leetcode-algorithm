@@ -215,3 +215,7 @@ Binary Search Tree Iterator
 ## 7/19
 
 Spiral Matrix II, Diameter of Binary Tree, Binary Tree Preorder Traversal, Binary Tree Inorder Traversal, Binary Tree Postorder Traversal
+
+## 7/20
+
+Median of Two Sorted Array

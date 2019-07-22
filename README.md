@@ -219,3 +219,7 @@ Spiral Matrix II, Diameter of Binary Tree, Binary Tree Preorder Traversal, Binar
 ## 7/20
 
 Median of Two Sorted Array
+
+## 7/21 
+
+Serialize and Deserialize BST, Serialize and Deserialize Binary Tree, Binary Tree Level Order Traversal

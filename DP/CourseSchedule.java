@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         // Construct graph using arraylist

@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public List<Integer> diffWaysToCompute(String input) {
         return ways(input, new HashMap<String, List<Integer>>());

@@ -231,3 +231,7 @@ Find the Missing Positive
 ## 7/23
 
 Odd Even LinkedList, Word search
+
+## 7/24
+
+Verifying An Alien Dictionary, Task Scheduler, K Closest Points To Origin, Meeting Rooms II

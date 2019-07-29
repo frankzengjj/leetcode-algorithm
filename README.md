@@ -247,3 +247,7 @@ Remove Invalid Parentheses, Accounts merge
 ## 7/27
 
 Intersection of Two Arrays
+
+## 7/28
+
+Find All Anagrams in a String, Interval List Intersections, Most Common Words, Prison Cells After N Days

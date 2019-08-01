@@ -259,3 +259,8 @@ Reorder Log Files, Parition Labels
 ## 7/30
 
 Rearrange String k Distance Apart
+
+## 7/31
+
+Next Permutation, Is Graph Bipartite?, Construct Binary Tree From Postorder and Inorder, Construct BST From Inorder,
+Friend Circles

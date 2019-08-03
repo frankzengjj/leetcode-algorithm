@@ -267,3 +267,7 @@ Next Permutation, Is Graph Bipartite?, Construct Binary Tree From Postorder and 
 ## 8/1
 
 Validate IP Address, Missing Ranges, Minesweeper
+
+## 8/2
+
+Reconstruct Itinerary

@@ -271,3 +271,8 @@ Validate IP Address, Missing Ranges, Minesweeper
 ## 8/2
 
 Reconstruct Itinerary
+
+## 8/3
+
+Find the Celebrity, Validate Parenthesis String, Inorder Successor in BST
+

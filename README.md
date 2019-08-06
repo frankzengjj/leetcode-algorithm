@@ -279,3 +279,7 @@ Find the Celebrity, Validate Parenthesis String, Inorder Successor in BST
 ## 8/4
 
 Construct Binary Tree From String, Integer to English Words
+
+## 8/5
+
+Minimum Add to Make Parentheses Valid, Battleships in a Board

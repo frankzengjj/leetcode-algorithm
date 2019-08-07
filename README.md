@@ -283,3 +283,7 @@ Construct Binary Tree From String, Integer to English Words
 ## 8/5
 
 Minimum Add to Make Parentheses Valid, Battleships in a Board
+
+## 8/6
+
+Longest Continous Increasing Subsequence, Minimum Window Substring

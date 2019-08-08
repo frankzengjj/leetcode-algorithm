@@ -287,3 +287,8 @@ Minimum Add to Make Parentheses Valid, Battleships in a Board
 ## 8/6
 
 Longest Continous Increasing Subsequence, Minimum Window Substring
+
+## 8/7
+
+LRU Cache, Knight Dialer
+

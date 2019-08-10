@@ -296,3 +296,6 @@ LRU Cache, Knight Dialer
 
 Valid Palindrone II, Sparse Matrix Multiplication, Binary Tree Right Side View, Flatten Binary Tree to Linked List
 
+## 8/9
+
+Total Hamming Distance, Permutation In String

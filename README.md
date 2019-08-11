@@ -299,3 +299,7 @@ Valid Palindrone II, Sparse Matrix Multiplication, Binary Tree Right Side View, 
 ## 8/9
 
 Total Hamming Distance, Permutation In String, Palindronmic Substrings
+
+## 8/10
+
+Check the Completeness of a Binary Tree, Reverse a Linked List, Walls And Gates, Relative Sort Array

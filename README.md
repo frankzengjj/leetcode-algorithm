@@ -303,3 +303,7 @@ Total Hamming Distance, Permutation In String, Palindronmic Substrings
 ## 8/10
 
 Check the Completeness of a Binary Tree, Reverse a Linked List, Walls And Gates, Relative Sort Array
+
+## 8/11
+
+Custom Sort String, Daily Teamperature

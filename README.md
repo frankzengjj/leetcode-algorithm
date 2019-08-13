@@ -307,3 +307,7 @@ Check the Completeness of a Binary Tree, Reverse a Linked List, Walls And Gates,
 ## 8/11
 
 Custom Sort String, Daily Teamperature
+
+## 8/12
+
+Number of Distinct Islands, Single Number III, Jewels And Stones

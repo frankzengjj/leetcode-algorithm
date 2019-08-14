@@ -311,3 +311,7 @@ Custom Sort String, Daily Teamperature
 ## 8/12
 
 Number of Distinct Islands, Single Number III, Jewels And Stones
+
+## 8/13
+
+Range Sum Query 2D - Immutable, Exclusive Time of Functions, Basic Calculator

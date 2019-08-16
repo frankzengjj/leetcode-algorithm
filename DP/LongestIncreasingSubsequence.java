@@ -11,10 +11,16 @@ class Solution {
                 }
             }
         }
+        System.out.println(Arrays.toString(dp));
         int res=0;
         for(int k=0; k<nums.length; k++) {
             res=Math.max(res, dp[k]);
         }
         return res;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = new int[]{2, 4, 3, 5, 1, 7, 6, 9, 8};
+        System.out.println(new Solution().lengthOfLIS(nums));
     }
 }

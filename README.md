@@ -319,3 +319,7 @@ Range Sum Query 2D - Immutable, Exclusive Time of Functions, Basic Calculator
 ## 8/14
 
 Longest Palindromic Subsequence, Top K Frequent Words
+
+## 8/15
+
+Meeting Room, Edit Distance

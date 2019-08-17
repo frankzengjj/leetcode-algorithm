@@ -323,3 +323,7 @@ Longest Palindromic Subsequence, Top K Frequent Words
 ## 8/15
 
 Meeting Room, Edit Distance
+
+## 8/16
+
+Longest Substring with At Most K Distinct Characters, Longest Substring with At Most Two Distinct Characters

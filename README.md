@@ -330,4 +330,8 @@ Longest Substring with At Most K Distinct Characters, Longest Substring with At 
 
 ## 8/17 
 
-Rest
+Sliding Window Maximum
+
+## 8/18
+
+Reorgnize String, Next Great Element I

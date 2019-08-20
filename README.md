@@ -335,3 +335,7 @@ Sliding Window Maximum
 ## 8/18
 
 Reorgnize String, Next Great Element I
+
+## 8/19 
+
+Rest

@@ -343,3 +343,7 @@ Rest
 ## 8/20
 
 Convert Sorted List to Binary Search Tree, Strobogrammatic Number, Hamming Distance, Brick Wall
+
+## 8/21
+
+Max Consecutive Ones III, Add Two Numbers, N Queens, Sum of Left Leaves, Diagonal Traverse, Monotonic Array

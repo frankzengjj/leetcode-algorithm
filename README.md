@@ -347,3 +347,7 @@ Convert Sorted List to Binary Search Tree, Strobogrammatic Number, Hamming Dista
 ## 8/21
 
 Max Consecutive Ones III, Add Two Numbers, N Queens, Sum of Left Leaves, Diagonal Traverse, Monotonic Array
+
+## 8/22
+
+Valid Tic Tac Toe State, Add Two Numbers II

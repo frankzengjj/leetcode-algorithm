@@ -351,3 +351,7 @@ Max Consecutive Ones III, Add Two Numbers, N Queens, Sum of Left Leaves, Diagona
 ## 8/22
 
 Valid Tic Tac Toe State, Add Two Numbers II
+
+## 8/23
+
+Design Tic Tac Toe

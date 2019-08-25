@@ -354,7 +354,7 @@ Valid Tic Tac Toe State, Add Two Numbers II
 
 ## 8/23
 
-Design Tic Tac Toe
+Design Tic Tac Toe, Partition Equal Subset
 
 ## 8/24
 

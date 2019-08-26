@@ -354,8 +354,12 @@ Valid Tic Tac Toe State, Add Two Numbers II
 
 ## 8/23
 
-Design Tic Tac Toe, Partition Equal Subset
+Design Tic Tac Toe, Partition Equkal Subset
 
 ## 8/24
 
 Design Circular Queue
+
+ ## 8/25
+
+ Shortest Distance from All Buildings, First Unique Character in a String, Merge K Sorted Lists, Friends of Appropriate Ages

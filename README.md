@@ -363,3 +363,11 @@ Design Circular Queue
  ## 8/25
 
  Shortest Distance from All Buildings, First Unique Character in a String, Merge K Sorted Lists, Friends of Appropriate Ages
+
+ ## 8/26
+
+ Palindrome Linked List
+
+ ## 8/27
+
+ All Nodes Distance K in Binary Tree, Vertical Order Traversal of a Binary Tree, Trapping Rain Water

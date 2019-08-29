@@ -371,3 +371,7 @@ Design Circular Queue
  ## 8/27
 
  All Nodes Distance K in Binary Tree, Vertical Order Traversal of a Binary Tree, Trapping Rain Water
+
+ ## 8/28
+
+ Squares of a Sorted Array, Longest Arithmetic Sequence, Group Shifted String

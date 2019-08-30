@@ -375,3 +375,7 @@ Design Circular Queue
  ## 8/28
 
  Squares of a Sorted Array, Longest Arithmetic Sequence, Group Shifted String
+
+ ## 8/29
+
+ Alien Dictionary

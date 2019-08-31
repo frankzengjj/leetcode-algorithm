@@ -379,3 +379,7 @@ Design Circular Queue
  ## 8/29
 
  Alien Dictionary
+
+ ## 8/30
+
+ Number of Connected Component in a Undirected Graph

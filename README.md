@@ -383,3 +383,7 @@ Design Circular Queue
  ## 8/30
 
  Number of Connected Component in a Undirected Graph
+
+ ## 8/31
+
+ Remove Nth Node From End of List

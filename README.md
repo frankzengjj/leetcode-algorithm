@@ -395,3 +395,7 @@ Design Circular Queue
  ## 9/2
 
  Reverse Words in a String II, Largest Number
+
+ ## 9/3
+
+ Range Sum Query Immutable

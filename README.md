@@ -399,3 +399,7 @@ Design Circular Queue
  ## 9/3
 
  Range Sum Query Immutable
+
+ ## 9/4
+
+ Sort List, Remove K Digits, String Compression, Design Hit Counter

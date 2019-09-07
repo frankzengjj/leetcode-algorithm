@@ -403,3 +403,10 @@ Design Circular Queue
  ## 9/4
 
  Sort List, Remove K Digits, String Compression, Design Hit Counter
+
+ ## 9/5
+
+
+ ## 9/6
+
+ Maximum Swap, Palindrome Partition, Palindrome Partition II

@@ -417,4 +417,8 @@ Design Circular Queue
 
  ## 9/8
 
- Boundary of Binary Tree
+ Boundary of Binary Tree, Longest Valid Parentheses, 3Sum Closest 
+
+ ## 9/9
+
+ Distribute Coins in Binary Tree, Pacific Atlantic Water Flow, Restore IP Addresses, Design HashMap

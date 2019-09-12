@@ -426,3 +426,7 @@ Design Circular Queue
 ## 9/10
 
 Delete Node in Binary Search Tree, Shortest Distance to Target Color
+
+## 9/11
+
+Rotate List, Flood Fill, Set Matrix Zeroes

@@ -430,3 +430,7 @@ Delete Node in Binary Search Tree, Shortest Distance to Target Color
 ## 9/11
 
 Rotate List, Flood Fill, Set Matrix Zeroes
+
+## 9/12
+
+Middle of Linked List

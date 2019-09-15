@@ -434,3 +434,10 @@ Rotate List, Flood Fill, Set Matrix Zeroes
 ## 9/12
 
 Middle of Linked List
+
+## 9/13 
+
+
+## 9/14 
+
+Sum of Leaf Numbers, Count Complete Tree Nodes, Time based Key Value Store, Longest Substring With K Repeating Characters

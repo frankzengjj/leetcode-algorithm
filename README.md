@@ -441,3 +441,12 @@ Middle of Linked List
 ## 9/14 
 
 Sum of Leaf Numbers, Count Complete Tree Nodes, Time based Key Value Store, Longest Substring With K Repeating Characters
+
+## 9/15
+
+Contiguous Array, Maximum Size Subarray Sum Equal TO K, Minimum Size Subarray Sum, Swap Node in Pair, Range Sum of BST
+
+
+## 9/16
+
+Longest Increasing Path in Matrix

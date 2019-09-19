@@ -454,3 +454,7 @@ Longest Increasing Path in Matrix, Minimum Height Tree, Binary Tree Level Order 
 ## 9/17
 
 Binary Tree Longest Consecutive Sequence, Palindrome Partitioning
+
+## 9/18
+
+The Maze

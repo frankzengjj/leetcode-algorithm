@@ -458,3 +458,7 @@ Binary Tree Longest Consecutive Sequence, Palindrome Partitioning
 ## 9/18
 
 The Maze, String Without AAA or BBB
+
+## 9/19
+
+LFU Cache

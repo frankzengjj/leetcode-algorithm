@@ -478,3 +478,7 @@ Last Stone Wieght, Longest Common Subsequence, Cheapest Flights Within K Stops
 ## 9/23
 
 Temp
+
+## 9/24
+
+Remove Duplicates from Sorted List

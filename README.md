@@ -498,3 +498,7 @@ Reverse Only Letters
 ## 9/28 
 
 Rest
+
+## 9/29
+
+cs 576

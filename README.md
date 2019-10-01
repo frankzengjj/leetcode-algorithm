@@ -502,3 +502,7 @@ Rest
 ## 9/29
 
 cs 576
+
+## 9/30
+
+Maximum Binary Tree, Valid Mountain Array

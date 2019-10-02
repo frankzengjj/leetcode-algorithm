@@ -506,3 +506,7 @@ cs 576
 ## 9/30
 
 Maximum Binary Tree, Valid Mountain Array
+
+## 10/1
+
+CS576

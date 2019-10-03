@@ -510,3 +510,7 @@ Maximum Binary Tree, Valid Mountain Array
 ## 10/1
 
 CS576
+
+## 10/2
+
+Largest Value in Each Tree Row, Two Sum Less Than K, Cousins in Binary Tree, Non-overlapping Intervals

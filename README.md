@@ -514,3 +514,7 @@ CS576
 ## 10/2
 
 Largest Value in Each Tree Row, Two Sum Less Than K, Cousins in Binary Tree, Non-overlapping Intervals
+
+## 10/3 
+
+Serialize and Deserialize a N-ary Tree

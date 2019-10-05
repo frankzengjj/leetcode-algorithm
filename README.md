@@ -518,3 +518,7 @@ Largest Value in Each Tree Row, Two Sum Less Than K, Cousins in Binary Tree, Non
 ## 10/3 
 
 Serialize and Deserialize a N-ary Tree
+
+## 10/4
+
+Rotting Oranges

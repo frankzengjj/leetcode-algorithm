@@ -522,3 +522,7 @@ Serialize and Deserialize a N-ary Tree
 ## 10/4
 
 Rotting Oranges
+
+## 10/5
+
+Minimum Spanning Tree with Union Find

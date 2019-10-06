@@ -2,10 +2,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Solution",
+            "name": "CodeLens (Launch) - MinimumCostConstruct",
             "request": "launch",
-            "mainClass": "Solution",
-            "projectName": "leetcode-algorithm_391cc242"
+            "mainClass": "MinimumCostConstruct",
+            "projectName": "leetcode-algorithm_fa758940"
         }
     ]
 }

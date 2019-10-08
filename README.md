@@ -526,3 +526,11 @@ Rotting Oranges
 ## 10/5
 
 Minimum Spanning Tree with Union Find
+
+## 10/6
+
+Connecting Cities with Minimum Cost
+
+## 10/7
+
+Paint House

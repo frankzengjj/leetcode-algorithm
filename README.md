@@ -534,3 +534,7 @@ Connecting Cities with Minimum Cost
 ## 10/7
 
 Paint House
+
+## 10/8
+
+GS OA

@@ -537,8 +537,8 @@ Paint House
 
 ## 10/8
 
-<<<<<<< HEAD
-Goldman Sachs OA
-=======
 GS OA
->>>>>>> 3aec0ba46d94843613505b3abe3006e67f84c41e
+
+## 10/10
+
+Kth Largest Element in A Stream

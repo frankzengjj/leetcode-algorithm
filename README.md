@@ -554,3 +554,7 @@ Find Median From Data Stream
 ## 10/13
 
 Convert BST to Greater Tree
+
+## 10/17
+
+Find All Duplicates in an Array

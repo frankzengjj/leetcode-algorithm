@@ -558,3 +558,8 @@ Convert BST to Greater Tree
 ## 10/17
 
 Find All Duplicates in an Array
+
+## 10/20
+
+Path In Zigzag Labelled Binary Tree, Maximum Level Sum of a Binary Tree, 
+Shorest Path in A Matrix

@@ -567,3 +567,7 @@ Shorest Path in A Matrix
 ## 10/21
 
 Binary Search Tree to Greater Sum Tree
+
+## 10/28 
+
+132 Pattern

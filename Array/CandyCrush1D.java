@@ -1,39 +1,34 @@
 import java.util.ArrayDeque;
+import java.util.Deque;
+import java.util.Map;
+import java.util.*;
 
 class Solution {
     public String crush(String str) {
-        char[] arr = str.toCharArray();
-        char lastSeen = arr[0];
-        ArrayDeque<Character> deque = new ArrayDeque();
-        deque.add(arr[0]);
-        for (int i=1; i<arr.length; i++) {
-            while (deque.isEmpty()) {
-                deque.add(arr[i]);
-                i++;
-                lastSeen = arr[i];
-            }
-            char last = deque.getLast();
-            if (arr[i] == lastSeen) {
-                if (arr[i] == last) {
-                    deque.pollLast();
-                    lastSeen = arr[i];
-                } else {
-                    i++;
+        // aabbbacd
+        //char[] arr = str.toCharArray();
+        Map<Character, Integer> map = new HashMap<>();
+        Deque<Character> st = new ArrayDeque<>();
+        for (char c: str.toCharArray()) {
+            map.put(c, map.getOrDefault(c, 0)+1);
+            if (map.get(c) >= 3) {
+                while (!st.isEmpty() && st.peek() == c) {
+                    st.pop();
                 }
+                map.put(c, 0);
             } else {
-                deque.add(arr[i]);
-                lastSeen = arr[i];
+                st.push(c);
             }
         }
-        String res = "";
-        while (!deque.isEmpty()) {
-            res += deque.pollFirst();
+        StringBuilder sb = new StringBuilder();
+        while (!st.isEmpty()) {
+            sb.append(st.pop());
         }
-        return res;
+        return sb.reverse().toString();
     }
 
     public static void main(String[] args) {
         Solution s = new Solution();
-        System.out.println(s.crush("aaccca"));
+        System.out.println(s.crush("aabbccddeeedcba"));
     }
 }

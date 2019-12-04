@@ -579,3 +579,7 @@ Unique Path II, Unique Path III
 ## 12/2
 
 Two Cities Scheduling
+
+## 12/3
+
+Minimum Remove to Make Valid Parentheses, Remove All Adjacent Duplicates In String, Invalid Transcation, Valid Triangle Number, Kill Process, All Paths From Source to Target

@@ -11,4 +11,6 @@ In 2019, I graduated from University of Wisconsin - Madison in Computer Science 
 I started doing leetcode again but this time I start with coderpro (which are a bunch of leetcode questions collected by third party).
 
 * 6/21/2020
-    * Ransom Note, Validate BST, Queue Reconstruction By Height
+  * Ransom Note, Validate BST, Queue Reconstruction By Height
+* 6/22/2020
+  * Find First and Last Position of Element in Sorted Array

@@ -14,3 +14,5 @@ I started doing leetcode again but this time I start with coderpro (which are a 
   * Ransom Note, Validate BST, Queue Reconstruction By Height
 * 6/22/2020
   * Find First and Last Position of Element in Sorted Array
+* 6/24/2020
+  * Subdomain Visit Count

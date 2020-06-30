@@ -20,3 +20,5 @@ I started doing leetcode again but this time I start with coderpro (which are a 
   * Asteroids Collision
 * 6/28/2020
   * Path Crossing, Add Two Numbers
+* 6/29/2020
+  * Find Duplicate File in System, Single Number
